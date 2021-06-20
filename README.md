@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Oliviervha
-- 📈 I’m a Data Scientist for living
+- 📈 I’m a Data Scientist for a living
 - 📫 How to reach me: olivier.vh@hotmail.com
 
 <!---
